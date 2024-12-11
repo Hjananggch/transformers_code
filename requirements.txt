@@ -1,4 +1,0 @@
-transformers
-numpy
-torch
-flask
